@@ -20,7 +20,7 @@ El proyecto está organizado de forma modular:
 *   **Gestor BD:** SQL Server Management Studio (SSMS) v19+.
 *   **Visualización:** Power BI Desktop.
 
-## 🚀 Instrucciones de Ejecución (Para el Profesor)
+## 🚀 Instrucciones de Ejecución
 Para replicar esta solución desde cero en un entorno local:
 1. Clona este repositorio o descarga el archivo ZIP.
 2. Descarga el dataset completo de nacimientos desde el enlace ubicado en `/dataset/README.md`.
